@@ -1,0 +1,59 @@
+I"A	<h3 id="목차">목차</h3>
+<ol>
+  <li><a href="#장희동">이름</a></li>
+  <li><a href="#school">학교</a></li>
+  <li><a href="###ESEARCH-INTEREST">ESEARCH INTEREST</a></li>
+  <li><a href="###RESEARCH-EXPERIENCES">RESEARCH EXPERIENCES</a></li>
+  <li><a href="###EXPERIENCES">EXPERIENCES</a></li>
+</ol>
+
+<h1 id="장희동">장희동</h1>
+
+<p>전자공학과<br />
+동아대학교<br />
+wkql7531@gmail.com<br />
+ </p>
+
+<h3 id="school">school</h3>
+<hr />
+
+<p>  • B.S 동아대학교(부산)<br />
+    ✓ 전공 : 전자공학과<br />
+ </p>
+
+<h3 id="esearch-interest">ESEARCH INTEREST</h3>
+<hr />
+
+<p>  • AI, Machine Learning, Deep Learning , embedded system<br />
+    ✓ ML(Machine Learning)을 통한 어플리케이션 및 임베디드 시스템을 구축<br />
+ </p>
+
+<h3 id="research-experiences">RESEARCH EXPERIENCES</h3>
+<hr />
+
+<p>  • 동아대학교 인공지능 &amp; 로보틱스 연구실, 학부인턴 ( 2020 ~ )<br />
+    ✓ 인공지능 및 로봇 소프트웨어 개발<br />
+ </p>
+
+<h3 id="experiences">EXPERIENCES</h3>
+<hr />
+
+<p>• 소셜로봇의 윤리적 판단기능에 적용 가능한 10 세 아동 수준의 도덕성을 갖춘 인공윤리<br />
+에이전트 개발 프로젝트</p>
+<ul>
+  <li>채팅 봇 개발 담당<br />
+• AMA(Artificial Moral Agent) 프로젝트</li>
+  <li>미소톡(채팅 봇) 파트 개발 담당<br />
+• 7~8 월 부산시 영화의전당에서 진행하는 인공지능&amp;로봇을 이용한 예술 교육 과제 준비<br />
+• 상용화를 목표로한 신체약자를 위한 인공지능 자율주행 휠체어 프로젝트</li>
+  <li>자율주행 개발 파트<br />
+• 2020 대한임베디드공학회 ICT 대학생 논문경진대회<br />
+• 2020 제 35 회 제어로봇시스템학회 학술대회 (ICROS 2020) 참석<br />
+• 동아대 병원 영상의학과와 머신러닝을 통한 MRI 사진을 분석 프로젝트 중</li>
+  <li>Auto Machine Learning(hyperparameter optimization)작업 보조<br />
+• Raspberrypi 와 Tensorflow(RNN seq2seq)를 이용한 채팅 봇<br />
+• Python, Flask 를 이용한 NAS 및 로컬 호스트 웹 구축<br />
+• Raspberrypi 와 AWS, 카카오톡을 이용한 동물감지 카메라 제작<br />
+• atmega128 을 이용한 임베디드 시스템 제작( 자판기, 헬스케어 장비 )</li>
+</ul>
+:ET
